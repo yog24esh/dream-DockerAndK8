@@ -1,0 +1,5 @@
+1. docker tag hello-world <your-dockerhub-username>/<image-name>
+2. docker login
+3. docker push <your-dockerhub-username>/<image-name>
+4. docker pull <your-dockerhub-username>/<image-name>
+5. docker run <your-dockerhub-username>/<image-name>
